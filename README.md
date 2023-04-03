@@ -20,7 +20,6 @@ Everything here is open source and can be reproduced and remixed - contributions
        - [Read online](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/) (many languages available)
        - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134928/Galoy.Single.Pages.pdf)
        - [Spanish (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134984/Galoy_brochure_A4_ES_v06.pdf)
-       - French (PDF)
 
 ## Helpful videos
    - [Intro to Bitcoin Beach Wallet (Blink) for community leaders](https://www.youtube.com/watch?v=t1kFy3tX1kQ)
@@ -39,7 +38,7 @@ Everything here is open source and can be reproduced and remixed - contributions
        - Try it out, create an LNURL-withdraw QR code at [lightsats.com](https://lightsats.com/) and scan it with Blink
 
 ## Social profiles
-   - Follow and tag us so we can help promote your efforts 🤙
+Follow and tag us so we can help promote your efforts 🤙
    - Twitter [@blinkbtc](https://twitter.com/blinkbtc)
    - Nostr 
        - NIP-05: [commmunity@blink.sv](https://snort.social/community@blink.sv) (all zaps will be donated to community projects 🙏)
