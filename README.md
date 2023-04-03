@@ -1,3 +1,5 @@
+![blink_logo_full_blackground](https://user-images.githubusercontent.com/90297599/229410327-57f7c783-d3bb-4bc2-9568-1715b94e3cea.png)
+
 # Blink: The everyday Bitcoin wallet
 
 Blink (Bitcoin Beach Wallet) is an open source custodial Lightning wallet for community building and everyday payments. It was built in Bitcoin Beach, El Salvador in 2020 to support the development of a circular economy. Now, the wallet is being used by community projects around the world to onboard both merchants and individuals to bitcoin. 
