@@ -1,4 +1,4 @@
-![blink_logo_full_blackground](https://user-images.githubusercontent.com/90297599/229410327-57f7c783-d3bb-4bc2-9568-1715b94e3cea.png | width=250)
+![blink_logo_full_blackground](https://user-images.githubusercontent.com/90297599/229410327-57f7c783-d3bb-4bc2-9568-1715b94e3cea.png =250x250)
 
 # Blink: The everyday Bitcoin wallet
 
