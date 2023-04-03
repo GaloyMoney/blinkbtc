@@ -1,5 +1,6 @@
 <br/>
-<img src="https://user-images.githubusercontent.com/90297599/229415659-5a917fa2-3898-4dda-a589-ac64ee804fc2.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/17384787/229608614-f874e4ea-1359-46e5-95fb-81f1942db93f.png" width="40%">
+
 
 
 # Community onboarding resources
