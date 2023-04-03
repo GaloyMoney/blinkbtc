@@ -1,26 +1,50 @@
-<img src="https://user-images.githubusercontent.com/90297599/229410327-57f7c783-d3bb-4bc2-9568-1715b94e3cea.png" width=30% height=30%>
+<br/>
+<img src="https://user-images.githubusercontent.com/90297599/229415659-5a917fa2-3898-4dda-a589-ac64ee804fc2.png" width=30% height=30%>
 
 
-# Branding and community onboarding resources
+# Community onboarding resources
+Blink (Bitcoin Beach Wallet) is an open source custodial Lightning wallet for community building and everyday payments. It was built in Bitcoin Beach, El Salvador in 2020 to support the development of their circular economy. Now, the wallet is being used by projects around the world to onboard merchants and individuals to bitcoin. Get the app at [blink.sv](https://blink.sv/)
 
-Blink (Bitcoin Beach Wallet) is an open source custodial Lightning wallet for community building and everyday payments. It was built in Bitcoin Beach, El Salvador in 2020 to support the development of their circular economy. Now, the wallet is being used by projects around the world to onboard merchants and individuals to bitcoin. 
-
-Everything here is open source and can be reproduced and remixed - contributions to the repository are welcome
+Everything here is open source and can be reproduced and remixed - contributions back to this repository are welcome
 
 ## Branding assets (logos, colors, design elements)
    - [Figma board](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=232%3A6&t=dMNubzDsN6LOgOUW-1)
-   - [Google Drive folder](https://drive.google.com/drive/folders/1LErq5DPTLt1pOhB3Yzo2VCSqLdYNj6Ri?usp=sharing)
+   - [Google Drive](https://drive.google.com/drive/folders/1LErq5DPTLt1pOhB3Yzo2VCSqLdYNj6Ri?usp=sharing)
 
 ## Onboarding materials 
-   - Merchant mini-guide
-       - English
-       - En Español 
-   - Bitcoin Banking for Communities: Lessons Learned from Bitcoin Beach (print ready PDF)
-       - English
-       - Spanish
-       - French
-        
-## Hop into your preferred chat channel: 
-   - [Telegram](https://t.me/blinkbtc) (general chat)
-   - [Mattermost](https://chat.galoy.io) (Bugs, Beta testing, Translations)
+   - Merchant mini-guide 
+       - [Figma board](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=125%3A4058&t=dMNubzDsN6LOgOUW-1) 
+       - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134874/blink-merchant-one-pager-EN-A5-size.pdf)
+       - [En Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134876/blink-merchant-one-pager-ES-A5-size.pdf) 
+   - Bitcoin Banking for Communities: Lessons Learned from Bitcoin Beach 
+       - [Read online](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/) (many languages available)
+       - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134928/Galoy.Single.Pages.pdf)
+       - [Spanish (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134984/Galoy_brochure_A4_ES_v06.pdf)
+       - French (PDF)
 
+## Helpful videos
+   - [Intro to Bitcoin Beach Wallet (Blink) for community leaders](https://www.youtube.com/watch?v=t1kFy3tX1kQ)
+   - [Stablesats – how it works](https://www.youtube.com/watch?v=FGO4dbwMYwg) 
+
+## Ways to get paid with Blink
+   - Lightning Address
+       - [username]@blink.sv
+       - Learn more: [lightningaddress.com](https://lightningaddress.com/)
+   - Cash register web app 
+       - [pay.blink.sv/[username]](https://pay.blink.sv/community)
+       - Learn more: [The Lightning Cash Register: POS Payments on the Lightning Network for Merchants](https://galoy.io/lightning-cash-register-pos-payments-on-bitcoins-lightning-network/)
+   - Printable LNURL paycode QR
+       - Accessible at [pay.blink.sv/[username]/print](https://pay.blink.sv/community/print)
+   - Scan LNURL-withdraw QR
+       - Try it out, create an LNURL-withdraw QR code at [lightsats.com](https://lightsats.com/) and scan it with Blink
+
+## Social profiles
+   - Follow and tag us so we can help promote your efforts 🤙
+   - Twitter [@blinkbtc](https://twitter.com/blinkbtc)
+   - Nostr 
+       - NIP-05: [commmunity@blink.sv](https://snort.social/community@blink.sv) (all zaps will be donated to community projects 🙏)
+       - npub: npub13ljnkd633c7maxatymv3y2fqq8vt3qk7j3tt0vytv90eztwgha9qmfcfhw
+
+## Hop into your preferred chat channel 
+   - [Telegram](https://t.me/blinkbtc) (general chat)
+   - [Mattermost](https://chat.galoy.io) (bugs, beta testing, translations)
