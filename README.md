@@ -17,6 +17,10 @@ Everything here is open source and can be reproduced and remixed - contributions
        - [Figma board](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=125%3A4058&t=dMNubzDsN6LOgOUW-1) 
        - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134874/blink-merchant-one-pager-EN-A5-size.pdf)
        - [En Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134876/blink-merchant-one-pager-ES-A5-size.pdf) 
+   - Receiving Bitcoin poster
+       - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=744%3A34&t=N1EBCrEI6e0X3Mcc-1)
+       - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11206803/Blink-Poster-Receiving-100x200cm-EN.pdf)
+
    - Bitcoin Banking for Communities: Lessons Learned from Bitcoin Beach 
        - [Read online](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/) (many languages available)
        - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134928/Galoy.Single.Pages.pdf)
