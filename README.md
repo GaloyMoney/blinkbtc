@@ -14,6 +14,10 @@ Everything here is open source and can be reproduced and remixed - contributions
    - [Google Drive](https://drive.google.com/drive/folders/1LErq5DPTLt1pOhB3Yzo2VCSqLdYNj6Ri?usp=sharing)
 
 ## Onboarding materials 
+   - Getting started with Blink guide
+       - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=756%3A718&t=yPPSW8aIWBJw00RC-1)
+       - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11336977/Getting.started.with.Blink.-.English.-.reduced.pdf)
+       - [Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11336991/Getting.started.with.Blink.-.Spanish.-.Reduced.pdf)
    - Merchant mini-guide 
        - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=125%3A4058&t=dMNubzDsN6LOgOUW-1) 
        - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134874/blink-merchant-one-pager-EN-A5-size.pdf)
