@@ -10,7 +10,7 @@ Blink (Bitcoin Beach Wallet) is an open source custodial Lightning wallet for co
 Everything here is open source and can be reproduced and remixed - contributions back to this repository are welcome
 
 ## Branding assets (logos, colors, design elements)
-   - [Figma board](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=232%3A6&t=dMNubzDsN6LOgOUW-1)
+   - [Brand Book in Figma]([https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=232%3A6&t=dMNubzDsN6LOgOUW-1](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?type=design&node-id=0-1))
    - [Google Drive](https://drive.google.com/drive/folders/1LErq5DPTLt1pOhB3Yzo2VCSqLdYNj6Ri?usp=sharing)
 
 ## Onboarding materials 
