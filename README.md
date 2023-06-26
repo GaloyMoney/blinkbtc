@@ -12,6 +12,12 @@ Everything here is open source and can be reproduced and remixed - contributions
    - [Brand Book in Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?type=design&node-id=0-1)
    - [Google Drive](https://drive.google.com/drive/folders/1LErq5DPTLt1pOhB3Yzo2VCSqLdYNj6Ri?usp=sharing)
 
+## SWAG (stickers, tshirts and more)
+   - [Blink sticker - 45mm width](https://github.com/GaloyMoney/blinkbtc/files/11867787/blink-sticker.pdf)
+   - [T-shirt – Pay me in bitcoin!](https://github.com/GaloyMoney/blinkbtc/files/11867793/English.pay.me.in.bitcoin.black.pdf)
+       - [Sample layout](https://github.com/GaloyMoney/blinkbtc/assets/90297599/63d2fc3e-3503-40f2-ad09-36d6161b5512)
+   - [T-shirt – Can I pay with bitcoin?](https://github.com/GaloyMoney/blinkbtc/files/11867864/english-can-i-pay.pdf)
+       - [Sample layout](https://github.com/GaloyMoney/blinkbtc/assets/90297599/2da76ab2-c479-47e7-8b88-6760fd0c41be)
 ## Onboarding materials 
    - Getting started with Blink guide
        - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=756%3A718&t=yPPSW8aIWBJw00RC-1)
