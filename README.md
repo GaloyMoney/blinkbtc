@@ -21,7 +21,15 @@ Everything here is open source and can be reproduced and remixed - contributions
        - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=125%3A4058&t=dMNubzDsN6LOgOUW-1) 
        - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134874/blink-merchant-one-pager-EN-A5-size.pdf)
        - [Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11134876/blink-merchant-one-pager-ES-A5-size.pdf) 
-   - Receiving Bitcoin poster
+   - Paycode LNURL QR poster/sticker templates
+       - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?type=design&node-id=2037%3A23410&mode=design&t=lUT9jpHEVXiLznyx-1) 
+       - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11867624/blink-paycode-poster-template-EN.pdf)
+       - [Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11867629/blink-paycode-poster-template-ES.pdf)
+   - "Pay with bitcoin here" sign for posters/stickers
+       - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?type=design&node-id=2037%3A15070&mode=design&t=lUT9jpHEVXiLznyx-1) 
+       - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11867681/blink-pay-with-bitcoin-poster-EN.pdf)
+       - [Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11867695/blink-pay-with-bitcoin-poster-ES.pdf)
+   - How to receive bitcoin poster
        - [Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?node-id=744%3A34&t=N1EBCrEI6e0X3Mcc-1)
        - [English (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11206803/Blink-Poster-Receiving-100x200cm-EN.pdf)
        - [Español (PDF)](https://github.com/GaloyMoney/blinkbtc/files/11215239/Blink-Poster-Receiving-100x200cm-ES.pdf)
